@@ -1,0 +1,2 @@
+# JRJSlidingNavigationBar
+类似QQ个人资料滑动隐藏导航栏背景效果
